@@ -1,0 +1,105 @@
+/* ===== FLAME University / Mubeamer Palette ===== */
+:root {
+  --md-primary-fg-color: #0000DC;
+  --md-primary-fg-color--light: #3333E6;
+  --md-primary-fg-color--dark: #0000B0;
+  --md-accent-fg-color: #F01928;
+  --md-accent-fg-color--transparent: rgba(240,25,40,0.1);
+  --flame-orange: #F58817;
+  --flame-blue: #08116F;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #3333E6;
+  --md-accent-fg-color: #F56B76;
+}
+
+/* ===== Headings ===== */
+.md-typeset h1,
+.md-typeset h2 {
+  color: var(--md-primary-fg-color);
+}
+
+/* ===== Custom admonition: film ===== */
+.md-typeset .admonition.film,
+.md-typeset details.film {
+  border-color: var(--flame-orange);
+}
+.md-typeset .film > .admonition-title,
+.md-typeset .film > summary {
+  background-color: rgba(245,136,23,0.1);
+}
+.md-typeset .film > .admonition-title::before,
+.md-typeset .film > summary::before {
+  background-color: var(--flame-orange);
+  -webkit-mask-image: var(--md-admonition-icon--example);
+  mask-image: var(--md-admonition-icon--example);
+}
+
+/* ===== Custom admonition: nobel ===== */
+.md-typeset .admonition.nobel,
+.md-typeset details.nobel {
+  border-color: #EBCB8B;
+}
+.md-typeset .nobel > .admonition-title,
+.md-typeset .nobel > summary {
+  background-color: rgba(235,203,139,0.1);
+}
+.md-typeset .nobel > .admonition-title::before,
+.md-typeset .nobel > summary::before {
+  background-color: #EBCB8B;
+  -webkit-mask-image: var(--md-admonition-icon--tip);
+  mask-image: var(--md-admonition-icon--tip);
+}
+
+/* ===== Custom admonition: indian ===== */
+.md-typeset .admonition.indian,
+.md-typeset details.indian {
+  border-color: #00AF3F;
+}
+.md-typeset .indian > .admonition-title,
+.md-typeset .indian > summary {
+  background-color: rgba(0,175,63,0.1);
+}
+.md-typeset .indian > .admonition-title::before,
+.md-typeset .indian > summary::before {
+  background-color: #00AF3F;
+  -webkit-mask-image: var(--md-admonition-icon--info);
+  mask-image: var(--md-admonition-icon--info);
+}
+
+/* ===== MCQ upper-alpha ===== */
+.upper-alpha ol {
+  list-style-type: upper-alpha;
+}
+
+/* ===== Iframe containers ===== */
+iframe {
+  width: 100%;
+  border: solid 2px var(--md-primary-fg-color);
+  border-radius: 4px;
+}
+
+/* ===== Module overview cards ===== */
+.module-card {
+  border-left: 4px solid var(--md-primary-fg-color);
+  padding: 1rem;
+  margin: 1rem 0;
+  background: var(--md-code-bg-color);
+  border-radius: 0 4px 4px 0;
+}
+
+.module-card h3 {
+  margin-top: 0;
+  color: var(--md-primary-fg-color);
+}
+
+.module-card .film-tag {
+  color: var(--flame-orange);
+  font-weight: bold;
+}
+
+.module-card .nobel-tag {
+  color: #B48EAD;
+  font-weight: bold;
+}

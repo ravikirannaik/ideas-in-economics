@@ -1,0 +1,129 @@
+site_name: "Ideas in Economics"
+site_description: "A film-based introduction to economic thinking — FLAME University"
+site_author: "Ravikiran Naik"
+site_url: "https://ravikirannaik.github.io/ideas-in-economics/"
+repo_url: "https://github.com/ravikirannaik/ideas-in-economics"
+repo_name: "ravikirannaik/ideas-in-economics"
+
+copyright: >
+  Content by Ravikiran Naik, FLAME University.
+  Licensed under <a href="license/">CC BY-NC-SA 4.0</a>.
+  Interactive simulations adapted from
+  <a href="https://dmccreary.github.io/economics-course/">McCreary (2026)</a>.
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: PT Sans
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+
+extra_css:
+  - css/extra.css
+
+extra_javascript:
+  - js/extra.js
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Syllabus: syllabus.md
+  - How to Use This Site: how-to-use.md
+
+  - Modules:
+    - Overview: modules/index.md
+    - "1. Understanding Economic Thinking":
+      - Content: modules/01-economic-thinking/index.md
+      - "Film: The Big Short": modules/01-economic-thinking/film-analysis.md
+      - "Nobel: Richard Thaler": modules/01-economic-thinking/nobel-focus.md
+      - Quiz: modules/01-economic-thinking/quiz.md
+      - Resources: modules/01-economic-thinking/resources.md
+    - "2. Incentives and Human Behavior":
+      - Content: modules/02-incentives-behavior/index.md
+      - "Film: A Beautiful Mind": modules/02-incentives-behavior/film-analysis.md
+      - "Nobel: John Nash": modules/02-incentives-behavior/nobel-focus.md
+      - Quiz: modules/02-incentives-behavior/quiz.md
+      - Resources: modules/02-incentives-behavior/resources.md
+    - "3. Market Dynamics and Labor Markets":
+      - Content: modules/03-markets-labor/index.md
+      - "Film: Margin Call": modules/03-markets-labor/film-analysis.md
+      - "Nobel: Paul Krugman": modules/03-markets-labor/nobel-focus.md
+      - Quiz: modules/03-markets-labor/quiz.md
+      - Resources: modules/03-markets-labor/resources.md
+    - "4. Poverty, Inequality, and Development":
+      - Content: modules/04-poverty-inequality/index.md
+      - "Film: Slumdog Millionaire": modules/04-poverty-inequality/film-analysis.md
+      - "Nobel: Duflo & Banerjee": modules/04-poverty-inequality/nobel-focus.md
+      - Quiz: modules/04-poverty-inequality/quiz.md
+      - Resources: modules/04-poverty-inequality/resources.md
+    - "5. Innovation, Technology, and Growth":
+      - Content: modules/05-innovation-growth/index.md
+      - "Film: Moneyball": modules/05-innovation-growth/film-analysis.md
+      - "Nobel: Robert Solow": modules/05-innovation-growth/nobel-focus.md
+      - Quiz: modules/05-innovation-growth/quiz.md
+      - Resources: modules/05-innovation-growth/resources.md
+    - "6. Environmental and Public Economics":
+      - Content: modules/06-environment-public/index.md
+      - "Film: Erin Brockovich": modules/06-environment-public/film-analysis.md
+      - "Nobel: Elinor Ostrom": modules/06-environment-public/nobel-focus.md
+      - Quiz: modules/06-environment-public/quiz.md
+      - Resources: modules/06-environment-public/resources.md
+
+  - Indian Context:
+    - Overview: indian-context/index.md
+    - "India's Informal Economy": indian-context/informal-economy.md
+    - "Digital India": indian-context/digital-india.md
+    - "NREGA and Poverty": indian-context/nrega-poverty.md
+    - "GST and Markets": indian-context/gst-markets.md
+    - "Climate and Commons": indian-context/climate-commons.md
+
+  - Interactive Sims: sims/index.md
+  - Economist Stories: stories/index.md
+  - Glossary: glossary.md
+  - References: references.md
+  - Acknowledgements: acknowledgements.md
+  - License: license.md
