@@ -95,3 +95,4 @@ The assessment design emphasizes progressive engagement: problem sets build anal
 5. van Staveren, I. (2015). *Economics After The Crisis*.
 6. Frank, R. H. (2011). *The Economic Naturalist*. Ebury Publishing.
 7. [nobelprize.org](https://www.nobelprize.org/) --- Prize lectures, biographies, and popular science backgrounds for all Economics laureates.
+8. Langlois, R. N. [*Economics Through Film*](https://richard-langlois.uconn.edu/home/teaching/econ-1495-economics-through-film/) (ECON 1101). University of Connecticut. A film-based economics course pairing 12 films with core concepts --- a key pedagogical model for this course.

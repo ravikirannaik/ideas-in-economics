@@ -41,6 +41,7 @@ Biographical narratives of economists whose work connects to this module's theme
 | Chang, H.-J. (2014). *Economics: The User's Guide* | Ch. 5: Institutions and economic performance |
 | Varoufakis, Y. *Talking to My Daughter About the Economy* | Ch. 3--4: The role of debt and strategic interaction in markets |
 | Staley, S. R. (2018). *Contemporary Film and Economics* | Ch. on game theory films |
+| Langlois, R. N. [*Economics Through Film*](https://richard-langlois.uconn.edu/home/teaching/econ-1495-economics-through-film/) (UConn) | *Dr. Strangelove* unit: game theory, mutually assured destruction, strategic interaction |
 
 ---
 

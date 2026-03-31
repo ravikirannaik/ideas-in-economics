@@ -42,6 +42,7 @@ Biographical narratives of economists whose work connects to this module's theme
 | Varoufakis, Y. *Talking to My Daughter About the Economy* | Ch. 1-2: Markets and debt |
 | Frank, R. H. (2011). *The Economic Naturalist* | Introduction: Thinking like an economist |
 | Staley, S. R. (2018). *Contemporary Film and Economics* | Ch. on financial crisis films |
+| Langlois, R. N. [*Economics Through Film*](https://richard-langlois.uconn.edu/home/teaching/econ-1495-economics-through-film/) (UConn) | *The Big Short* unit: institutions, financial intermediation, systemic risk |
 
 ---
 

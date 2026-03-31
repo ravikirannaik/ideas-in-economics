@@ -43,6 +43,7 @@ Biographical narratives of economists whose work connects to this module's theme
 | Krugman, P., Wells, R. & Graddy, K. *Essentials of Economics* | Ch. 3: Supply and Demand; Ch. 4: Price Controls and Taxes; Ch. 7: Market Structure |
 | Frank, R. H. (2011). *The Economic Naturalist* | Examples on pricing, competition, and labor markets |
 | Staley, S. R. (2018). *Contemporary Film and Economics* | Ch. on financial crisis films (relevant to *Margin Call*) |
+| Langlois, R. N. [*Economics Through Film*](https://richard-langlois.uconn.edu/home/teaching/econ-1495-economics-through-film/) (UConn) | *It's a Wonderful Life* unit: financial intermediation, bank runs; *The Founder* unit: entrepreneurship, labor |
 
 ---
 

@@ -23,6 +23,8 @@ The following texts form the core reading list for the course. They are referenc
 
 7. **nobelprize.org** --- [nobelprize.org](https://www.nobelprize.org/). Prize lectures, biographies, and popular science summaries for all Nobel Memorial Prize in Economic Sciences laureates. Used throughout the Nobel Focus sections.
 
+8. **Langlois, R. N.** *Economics Through Film* (ECON 1101). University of Connecticut. [:material-open-in-new: Course page](https://richard-langlois.uconn.edu/home/teaching/econ-1495-economics-through-film/). A pioneering film-based economics course pairing 12 films (including *The Big Short*, *Moneyball*, and *Dr. Strangelove*) with concepts from institutions and property rights to game theory and externalities. No textbook --- readings drawn from Smith, Keynes, and contemporary sources. A key inspiration for this course's film-first pedagogy.
+
 ---
 
 ## Additional Resources (Calibre Library)

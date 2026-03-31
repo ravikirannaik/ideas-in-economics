@@ -41,6 +41,7 @@ Biographical narratives of economists and activists whose work connects to this 
 | Varoufakis, Y. *Talking to My Daughter About the Economy* | Ch. 7-8: The environment and the future |
 | Ostrom, E. (1990). *Governing the Commons* | Ch. 1-3: The problem, the framework, the cases (for advanced readers) |
 | Staley, S. R. (2018). *Contemporary Film and Economics* | Ch. on environmental economics and film |
+| Langlois, R. N. [*Economics Through Film*](https://richard-langlois.uconn.edu/home/teaching/econ-1495-economics-through-film/) (UConn) | *Wall-E* unit: externalities, economic growth, sustainability |
 | Mankiw, N. G. *Principles of Economics* | Ch. 10: Externalities; Ch. 11: Public Goods and Common Resources |
 
 ---

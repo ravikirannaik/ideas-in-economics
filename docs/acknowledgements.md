@@ -19,7 +19,8 @@ The interactive simulations (MicroSims) and Economist Stories used throughout th
 
 The course syllabus draws on the pedagogical approaches and conceptual frameworks of the following authors, whose works are listed in the [References](references.md) section:
 
-- **Samuel R. Staley** --- for the film-and-economics framework that inspired the course's structure (*Contemporary Film and Economics: Lights! Camera! Econ!*).
+- **Samuel R. Staley** --- for the film-and-economics framework that informed the course's structure (*Contemporary Film and Economics: Lights! Camera! Econ!*).
+- **Richard N. Langlois** --- for [*Economics Through Film*](https://richard-langlois.uconn.edu/home/teaching/econ-1495-economics-through-film/) (ECON 1101, University of Connecticut), a pioneering film-based economics course pairing 12 films with core concepts from institutions to externalities. A key pedagogical model for this course's film-first approach.
 - **David Simpson** --- for biographical sketches of great economists (*Striding with Economic Giants*).
 - **Larissa Wolfe and Stephen Buckles** --- for visual approaches to economic concepts (*Easy Economics: A Visual Guide*).
 - **Ha-Joon Chang** --- for a pluralist, accessible introduction to economic schools of thought (*Economics: The User's Guide*).

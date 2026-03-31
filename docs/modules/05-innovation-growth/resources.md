@@ -39,6 +39,7 @@ Biographical narratives of economists whose work connects to this module's theme
 | Varoufakis, Y. *Talking to My Daughter About the Economy* | Ch. 5: Technology and the future of work |
 | Warsh, D. (2006). *Knowledge and the Wealth of Nations* | The story of Paul Romer's new growth theory and why ideas drive prosperity |
 | Lewis, M. (2003). *Moneyball: The Art of Winning an Unfair Game* | The full story behind the film — innovation, market inefficiency, and creative destruction in baseball |
+| Langlois, R. N. [*Economics Through Film*](https://richard-langlois.uconn.edu/home/teaching/econ-1495-economics-through-film/) (UConn) | *Moneyball* unit: entrepreneurship, innovation, labor economics |
 
 ---
 
